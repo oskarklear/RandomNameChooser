@@ -6,7 +6,7 @@ A graphical program in which users may input text into boxes, and press a button
 
 Download all files, and run the .jar file from the folder.
 If the program does not run simply from opening the .jar file, type
-java -jar RandomNameChooser.jar in a terminal.
+java -jar NameChooser.jar in a terminal.
 
 ## Usage
 
